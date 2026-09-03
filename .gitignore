@@ -1,0 +1,42 @@
+# Environment and sensitive credentials
+.env
+.env.*
+!.env.example
+*.env
+*.key
+*.pem
+*.secret
+credentials.json
+openrouter_key*
+
+# Academic PDFs (heavy binaries)
+uploads/*.pdf
+*.pdf
+!uploads/.gitkeep
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+backend/.venv/
+
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+scratch/
+tmp/

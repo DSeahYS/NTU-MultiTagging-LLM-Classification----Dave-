@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Tag Paper Sorter Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <div class="logo-icon">📚</div>
+                <div class="logo-text">
+                    <h1>Paper Sorter</h1>
+                    <div class="subtitle">Multi-Tag LLM Classification</div>
+                </div>
+            </div>
+
+            <div class="control-panel">
+                <div class="input-group">
+                    <label>OpenRouter API Key</label>
+                    <input type="password" id="api-key-input" placeholder="Leave blank to use .env">
+                </div>
+                
+                <div class="input-group">
+                    <label>Primary Model</label>
+                    <select id="model-select">
+                        <option value="nvidia/nemotron-3-ultra-550b-a55b:free">Nemotron Ultra (550B)</option>
+                        <option value="google/gemma-4-26b-a4b-it:free">Gemma 4 (26B)</option>
+                        <option value="openai/gpt-oss-120b:free">GPT-OSS (120B)</option>
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label>Parallel Concurrency</label>
+                    <input type="number" id="concurrency-input" value="20" min="1" max="100">
+                </div>
+                
+                <div class="actions">
+                    <button class="btn btn-primary" id="btn-start" onclick="openStartModal()">Start Parallel Tagging</button>
+                    <button class="btn btn-warning" id="btn-pause" onclick="pauseProcessing()" style="display:none;">Pause</button>
+                    <button class="btn btn-primary" id="btn-resume" onclick="openStartModal()" style="display:none;">Resume</button>
+                    <button class="btn btn-outline" onclick="exportData()">Export Master & Lists</button>
+                    <button class="btn btn-danger" onclick="resetAllData()">Reset All Data</button>
+                </div>
+            </div>
+            
+            <div class="sidebar-footer">
+                <p>Port 8044</p>
+                <p>Connected to WS</p>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="header">
+                <div class="global-progress">
+                    <div class="progress-info">
+                        <h2>Overall Progress</h2>
+                        <div class="stats-pills">
+                            <span class="pill blue">Total: <span id="stat-total">0</span></span>
+                            <span class="pill green">Processed: <span id="stat-done">0</span></span>
+                            <span class="pill gray">Remaining: <span id="stat-pending">0</span></span>
+                        </div>
+                    </div>
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" id="progress-fill" style="width: 0%"></div>
+                        <span class="progress-text" id="progress-pct">0%</span>
+                    </div>
+                </div>
+            </header>
+
+            <div class="dashboard-grid">
+                
+                <!-- Pillar 1 -->
+                <div class="pillar-card">
+                    <div class="pillar-header cat-1">
+                        <h3>Bioprinting Modality</h3>
+                    </div>
+                    <div class="tags-list">
+                        <div class="tag-row"><span class="tag-name">extrusion_based</span><span class="tag-count" id="stat-extrusion_based">0</span></div>
+                        <div class="tag-row"><span class="tag-name">droplet_based_inkjet</span><span class="tag-count" id="stat-droplet_based_inkjet">0</span></div>
+                        <div class="tag-row"><span class="tag-name">light_based_vat</span><span class="tag-count" id="stat-light_based_vat">0</span></div>
+                        <div class="tag-row"><span class="tag-name">laser_assisted</span><span class="tag-count" id="stat-laser_assisted">0</span></div>
+                        <div class="tag-row"><span class="tag-name">in_situ_bioprinting</span><span class="tag-count" id="stat-in_situ_bioprinting">0</span></div>
+                        <div class="tag-row"><span class="tag-name">4d_bioprinting</span><span class="tag-count" id="stat-4d_bioprinting">0</span></div>
+                    </div>
+                </div>
+
+                <!-- Pillar 2 -->
+                <div class="pillar-card">
+                    <div class="pillar-header cat-2">
+                        <h3>Biomaterial Chemistry</h3>
+                    </div>
+                    <div class="tags-list">
+                        <div class="tag-row"><span class="tag-name">natural_polymers</span><span class="tag-count" id="stat-natural_polymers">0</span></div>
+                        <div class="tag-row"><span class="tag-name">synthetic_polymers</span><span class="tag-count" id="stat-synthetic_polymers">0</span></div>
+                        <div class="tag-row"><span class="tag-name">dmatrix_bioinks</span><span class="tag-count" id="stat-dmatrix_bioinks">0</span></div>
+                        <div class="tag-row"><span class="tag-name">nanomaterial_composite</span><span class="tag-count" id="stat-nanomaterial_composite">0</span></div>
+                        <div class="tag-row"><span class="tag-name">hydrogel_rheology</span><span class="tag-count" id="stat-hydrogel_rheology">0</span></div>
+                        <div class="tag-row"><span class="tag-name">sacrificial_support</span><span class="tag-count" id="stat-sacrificial_support">0</span></div>
+                    </div>
+                </div>
+
+                <!-- Pillar 3 -->
+                <div class="pillar-card">
+                    <div class="pillar-header cat-3">
+                        <h3>Biological Systems</h3>
+                    </div>
+                    <div class="tags-list">
+                        <div class="tag-row"><span class="tag-name">stem_cells</span><span class="tag-count" id="stat-stem_cells">0</span></div>
+                        <div class="tag-row"><span class="tag-name">primary_cells</span><span class="tag-count" id="stat-primary_cells">0</span></div>
+                        <div class="tag-row"><span class="tag-name">multicellular_co_culture</span><span class="tag-count" id="stat-multicellular_co_culture">0</span></div>
+                        <div class="tag-row"><span class="tag-name">spheroids_organoids</span><span class="tag-count" id="stat-spheroids_organoids">0</span></div>
+                        <div class="tag-row"><span class="tag-name">cell_viability_proliferation</span><span class="tag-count" id="stat-cell_viability_proliferation">0</span></div>
+                        <div class="tag-row"><span class="tag-name">vascularization</span><span class="tag-count" id="stat-vascularization">0</span></div>
+                    </div>
+                </div>
+
+                <!-- Pillar 4 -->
+                <div class="pillar-card">
+                    <div class="pillar-header cat-4">
+                        <h3>Engineering Applications</h3>
+                    </div>
+                    <div class="tags-list">
+                        <div class="tag-row"><span class="tag-name">tissue_engineering</span><span class="tag-count" id="stat-tissue_engineering">0</span></div>
+                        <div class="tag-row"><span class="tag-name">disease_modeling</span><span class="tag-count" id="stat-disease_modeling">0</span></div>
+                        <div class="tag-row"><span class="tag-name">drug_screening_discovery</span><span class="tag-count" id="stat-drug_screening_discovery">0</span></div>
+                        <div class="tag-row"><span class="tag-name">anatomical_models</span><span class="tag-count" id="stat-anatomical_models">0</span></div>
+                        <div class="tag-row"><span class="tag-name">conductive_electronics</span><span class="tag-count" id="stat-conductive_electronics">0</span></div>
+                    </div>
+                </div>
+
+                <!-- Pillar 5 -->
+                <div class="pillar-card">
+                    <div class="pillar-header cat-5">
+                        <h3>Computational & AI</h3>
+                    </div>
+                    <div class="tags-list">
+                        <div class="tag-row"><span class="tag-name">process_calibration</span><span class="tag-count" id="stat-process_calibration">0</span></div>
+                        <div class="tag-row"><span class="tag-name">bayesian_optimization</span><span class="tag-count" id="stat-bayesian_optimization">0</span></div>
+                        <div class="tag-row"><span class="tag-name">computer_vision_monitoring</span><span class="tag-count" id="stat-computer_vision_monitoring">0</span></div>
+                        <div class="tag-row"><span class="tag-name">deep_learning_models</span><span class="tag-count" id="stat-deep_learning_models">0</span></div>
+                        <div class="tag-row"><span class="tag-name">large_language_models</span><span class="tag-count" id="stat-large_language_models">0</span></div>
+                        <div class="tag-row"><span class="tag-name">finite_element_analysis</span><span class="tag-count" id="stat-finite_element_analysis">0</span></div>
+                        <div class="tag-row"><span class="tag-name">open_source_software</span><span class="tag-count" id="stat-open_source_software">0</span></div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Terminal / Logs -->
+            <div class="log-section">
+                <h3>Live Tagging Stream</h3>
+                <div class="log-window" id="log-body"></div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Start Modal -->
+    <div class="modal-overlay" id="start-modal">
+        <div class="modal">
+            <h2>Ready to Start?</h2>
+            <p>This will scan all 529 PDFs, extract text, and dispatch up to <strong id="modal-concurrency">20</strong> concurrent LLM requests for multi-tag classification.</p>
+            <div class="modal-actions">
+                <button class="btn btn-outline" onclick="closeStartModal()">Cancel</button>
+                <button class="btn btn-primary" onclick="startProcessing()">Launch Parallel Run</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>

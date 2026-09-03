@@ -1,0 +1,529 @@
+# tissue_engineering
+**Domain**: Engineering Applications
+**Total Papers**: 523
+
+---
+
+- 3D bioprinting A powerful tool to leverage tissue engineering and microbial syst.pdf
+- 3D bioprinted dynamic bioactive living construct enhances mechanotransduction-as.pdf
+- 3D bioprinted scaffolds for osteochondral regeneration advancements and applicat.pdf
+- 3D bioprinted multiscale composite scaffolds based on gelatin methacryloyl GelMA.pdf
+- 3D bioprinting for reproducing the tumor microenvironment in cancer research mod.pdf
+- 3D bioprinting and photocrosslinking emerging strategies  future perspectives.pdf
+- 3D bioprinted alginate-gelatin hydrogel patches containing cardiac spheroids rec.pdf
+- 3D bioprinted thick hepatic constructs with vascular network as a physiologicall.pdf
+- 3D bioprinting for lung and tracheal tissue engineering Criteria advances challe.pdf
+- 3D biofabrication for soft tissue and cartilage engineering.pdf
+- 3D bioprinted pectin-based hydrogel as sustainable biomaterials for musculoskele.pdf
+- 3D bioprinted GelMA platform for the production of lung tumor spheroids.pdf
+- 3D bioprinted connections in LiverPancreas crosstalk Lessons learned and future .pdf
+- 3D bioprinting in cardiac tissue engineering.pdf
+- 3D Bioprinted Scaffolds for Tissue Repair and Regeneration.pdf
+- 3D bioprinted multilayered cerebrovascular conduits to study cancer extravasatio.pdf
+- 3D bioprinting bioglass to construct vascularized full-thickness skin substitute.pdf
+- 3D bioprinted composite scaffold incorporating microfluidics-derived chondrocyte.pdf
+- 3-D bioprinted human-derived skin organoids accelerate full-thickness skin defec.pdf
+- 3D bioprinting of graphene oxide-incorporated cell-laden bone mimicking scaffold.pdf
+- 3D bioprinting of alginategelatin hydrogels with tunable mechanical properties f.pdf
+- 3D bioprinting of functional cell-laden bioinks and its application for cell-ali.pdf
+- 3D Bioprinting of human Mesenchymal Stem Cells in a novel tunic decellularized E.pdf
+- 3D bioprinting of mechanically tuned bioinks derived from cardiac decellularized.pdf
+- 3D bioprinting meets nanotherapeutics a vehicle for sustained extracellular vesi.pdf
+- 3D bioprinting of human mesenchymal stem cells-laden hydrogels incorporating MXe.pdf
+- 3D bioprinting of engineered exosomes secreted from M2-polarized macrophages thr.pdf
+- 3D bioprinting of modified mannan bioink for tissue engineering.pdf
+- 3D bioprinting of a biomimetic meniscal scaffold for application in tissue engin.pdf
+- 3D bioprinting of bicellular liver lobule-mimetic structures via microextrusion .pdf
+- 3D bioprinting of microorganisms principles and applications.pdf
+- 3D bioprinting of multicellular scaffolds for osteochondral regeneration.pdf
+- 3D Bioprinting of osteochondral tissue substitutes  in vitro-chondrogenesis in m.pdf
+- 3D bioprinting of liver models A systematic scoping review of methods bioinks an.pdf
+- 3D bioprinting of collagen-based materials for oral medicine.pdf
+- 3D bioprinting of hepatocytes coreshell structured co-cultures with fibroblasts .pdf
+- 3D bioprinting of multi-layered segments of a vessel-like structure with ECM and.pdf
+- 3D bioprinting of prevascularised implants for the repair of critically-sized bo.pdf
+- 3D bioprinting of high-performance hydrogel with in-situ birth of stem cell sphe.pdf
+- 3D bioprinting of thermosensitive inks based on gelatin hyaluronic acid and fibr.pdf
+- 3D Bioprinting Pluripotent Stem Cell Derived Neural Tissues Using a Novel Fibrin.pdf
+- 3D printed fibroblast-laden alginate-cellulose scaffolds support extracellular m.pdf
+- 3D cell-printing of gradient multi-tissue interfaces for rotator cuff regenerati.pdf
+- 3D microextrusion-inkjet hybrid printing of structured human skin equivalents.pdf
+- 3D bioprinting patient-derived induced pluripotent stem cell models of Alzheimer.pdf
+- 3D printed scaffolds based on hyaluronic acid bioinks for tissue engineering a r.pdf
+- 3D Bioprinting with Live Cells.pdf
+- 3D bioprinting of thick coreshell vascularized scaffolds for potential tissue en.pdf
+- 3D bioprinting via an in situ crosslinking technique towards engineering cartila.pdf
+- 3D printed alginate-cellulose nanofibers based patches for local curcumin admini.pdf
+- 3D Bioprinting Strategies Challenges and Opportunities to Model the Lung Tissue .pdf
+- 3D digital light process bioprinting Cutting-edge platforms for resolution of or.pdf
+- 3D printing of nanoparticle-containing scaffolds for cancer phototherapy magneti.pdf
+- 3D printing a universal knee meniscus using a custom collagen ink.pdf
+- 3D Printing for Bone-Cartilage Interface Regeneration.pdf
+- 3D printing- and cyclic strain-driven engineering of skeletal muscle blocks usin.pdf
+- 3D printed mechanically tunable composite sodium alginate gelatin and Gum Arabic.pdf
+- 3D Printing Strategies for Precise and Functional Assembly of Silk-based Biomate.pdf
+- 3D printing of a thermosensitive hydrogel for skin tissue engineering A proof of.pdf
+- 3D-bioprinting of patient-derived cardiac tissue models for studying congenital .pdf
+- 3D-bioprinted silk fibroin-hydroxypropyl cellulose methacrylate porous scaffold .pdf
+- 3D-Printed Autologous Micronized Adipose Patch Graft for Skin Regeneration in a .pdf
+- 3D-printed GelMA-Alginate microsphere scaffold with staged dual-growth factor re.pdf
+- 3D-printed wound dressing platform for protein administration based on alginate .pdf
+- 3D-bioprinted anisotropic bicellular living hydrogels boost osteochondral regene.pdf
+- 3D-printed placental-derived bioinks for skin tissue regeneration with improved .pdf
+- 3D printing-biomimetic local stiff niche enhances glycolysis to boost PDAC cell .pdf
+- 3D-printed advanced scaffold armed with exosomes derived from human skeletal ste.pdf
+- 3D-printable supramolecular hydrogels with shear-thinning property fabricating s.pdf
+- 3D-printed microstructured alginate scaffolds for neural tissue engineering.pdf
+- A 3D In-vitro model of the human dentine interface shows long-range osteoinducti.pdf
+- 4D bioprinting of programmed dynamic tissues.pdf
+- A 3D-bioprinted scaffold with doxycycline-controlled BMP2-expressing cells for i.pdf
+- A bioink blend for rotary 3D bioprinting tissue engineered small-diameter vascul.pdf
+- A biomimetic intestinal microvillus cell sensor based on 3D bioprinting for the .pdf
+- A 3D-bioprinted dermal-like scaffold incorporating fibroblasts and DRG neurons t.pdf
+- A 3D bioprinted adhesive tissue engineering scaffold to repair ischemic heart in.pdf
+- A bioactive microparticle-loaded osteogenically enhanced bioprinted scaffold tha.pdf
+- A bioprinted 3D gut model with crypt-villus structures to mimic the intestinal e.pdf
+- A comprehensive review on hydrogel-based bio-ink development for tissue engineer.pdf
+- A bioprinted breast cancer model using bioinks of decellularized breast tissue f.pdf
+- A comparative analysis of pulp-derived nanocelluloses for 3D bioprinting facial .pdf
+- A Feasibility Study on 3D Bioprinting of Microfat Constructs Towards Wound Heali.pdf
+- A Custom Ultra-Low-Cost 3D Bioprinter Supports Cell Growth and Differentiation.pdf
+- A high performance open-source syringe extruder optimized for extrusion and retr.pdf
+- A micropatterned thermoplasmonic substrate for neuromodulation of in vitro neuro.pdf
+- A bioprinted and scalable model of human tubulo-interstitial kidney fibrosis.pdf
+- A modular hydrogel bioink containing microsphere-embedded chondrocytes for 3D-pr.pdf
+- A comprehensive review on scaffold-free bioinks for bioprinting.pdf
+- A photo-crosslinkable cartilage-derived extracellular matrix bioink for auricula.pdf
+- A photocurable hybrid chitosanacrylamide bioink for DLP based 3D bioprinting.pdf
+- A high-throughput approach to compare the biocompatibility of candidate bioink f.pdf
+- A natural composite hydrogel laden with mesenchymal stromal cells for osteochond.pdf
+- A predictive rheological framework to define printability of thermo-sensitive bi.pdf
+- A Review of Recent Advances in 3D Bioprinting With an Eye on Future Regenerative.pdf
+- A stiff bioink for hybrid bioprinting of vascularized bone tissue with enhanced .pdf
+- A self-healing hydrogel and injectable cryogel of gelatin methacryloyl-polyureth.pdf
+- A novel GelMA-OrnMA electrically conductive bioink for developing engineered neu.pdf
+- A proposed model of xeno-keratoplasty using 3D printing and decellularization.pdf
+- A vascularized in vivo melanoma model suitable for metastasis research of differ.pdf
+- Accelerating vascular graft development Adipose-derived stem cells and PODS Poly.pdf
+- Advanced gelatin-based vascularization bioinks for extrusion-based bioprinting o.pdf
+- Additive-free hyaluronic acid-based bioink for 3D bioprinting of bone marrow mic.pdf
+- Advanced optical assessment and modeling of extrusion bioprinting.pdf
+- Advanced tumor organoid bioprinting strategy for oncology research.pdf
+- Advancements in tissue and organ 3D bioprinting Current techniques applications .pdf
+- Advancements of 3D bioprinting in regenerative medicine Exploring cell sources f.pdf
+- A structure-supporting self-healing and high permeating hydrogel bioink for esta.pdf
+- Advanced 3D bioink featuring damping and antioxidant for micro-nano fabrication.pdf
+- Advances in the development of tubular structures using extrusion-based 3D cell-.pdf
+- Advances in 3D bioprinting technology for cardiac tissue engineering and regener.pdf
+- Advancements in high-resolution 3D bioprinting Exploring technological trends bi.pdf
+- Advances in 3D bioprinting for the biofabrication of tumor models.pdf
+- Advancing bioinks for 3D bioprinting using reactive fillers A review.pdf
+- Affinity-bound growth factor within sulfated interpenetrating network bioinks fo.pdf
+- AI-driven 3D bioprinting for regenerative medicine From bench to bedside.pdf
+- Alendronate releasing silk fibroin 3D bioprinted scaffolds for application in bo.pdf
+- Amnion-derived hydrogels as a versatile platform for regenerative therapy from l.pdf
+- Alginate-based hydrogels as drug delivery vehicles in cancer treatment and their.pdf
+- An alginate-cellulose based bioink mimics the viscoelastic features of the melan.pdf
+- Alginate-based tissue-specific bioinks for multi-material 3D-bioprinting of panc.pdf
+- Advantages of photo-curable collagen-based cell-laden bioinks compared to methac.pdf
+- An automated raw tissue precision slicing system for methodological advances in .pdf
+- An easy and robust method of preparation of capsules for delivering probiotic ba.pdf
+- An injectable and photocurable methacrylate-silk fibroinnano-hydroxyapatite hydr.pdf
+- An intestinal model with a finger-like villus structure fabricated using a biopr.pdf
+- Algal protein-based 3D-printed fish-analogs as a new approach for sustainable se.pdf
+- An immunomodulatory bioink with hollow manganese silicate nanospheres for angiog.pdf
+- Amorphous calcium phosphate reinforced alginate-dialdehyde-gelatin ADA-GEL bioin.pdf
+- An open-source handheld extruder loaded with pore-forming bioink for in situ wou.pdf
+- An immune regulatory 3D-printed alginate-pectin construct for immunoisolation of.pdf
+- An osteogenic bioink composed of alginate cellulose nanofibrils and polydopamine.pdf
+- An open source extrusion bioprinter based on the E3D motion system and tool chan.pdf
+- An osteosarcoma-on-a-chip model for studying osteosarcoma matrix-cell interactio.pdf
+- Anisotropic mechanotransductive tissue constructs via brush-assisted bioprinting.pdf
+- An Overview of Extracellular Matrix-Based Bioinks for 3D Bioprinting.pdf
+- Application of additive manufacturing in the biomedical field- A review.pdf
+- Application of three-dimensional 3D bioprinting in anti-cancer therapy.pdf
+- An Overview on Materials and Techniques in 3D Bioprinting Toward Biomedical Appl.pdf
+- Applying extrusion-based 3D printing technique accelerates fabricating complex b.pdf
+- Approaches to scarless burn wound healing application of 3D printed skin substit.pdf
+- Assessment of the viability and mechanoresponsiveness of hMSC-TERT printed with .pdf
+- Autolysis-driven cell wall remodeling in yeast Sustainable bioink development an.pdf
+- Application of tergitol in liver decellularization and bioink preparation based .pdf
+- Bilayer tissue-engineered skin loaded with confining forces enhances epidermal p.pdf
+- Bio-inks with PRF Increase Human Osteosarcoma Cell Line SaOS-2 Viability in Extr.pdf
+- Bio-printed cellulose nanocrystal Processing fabrication and biomedical applicat.pdf
+- Assessing mesh size and diffusion of alginate bioinks A crucial factor for succe.pdf
+- Bibliometric and visualized analysis of 3D printing bioink in bone tissue engine.pdf
+- Biodesigned bioinks for 3D printing via divalent crosslinking of self-assembled .pdf
+- Biobased hydrogel bioinks of pectin nanocellulose and lysozyme nanofibrils for t.pdf
+- Biofabrication of 3D-printed fibrous scaffolds for large muscle tissue engineeri.pdf
+- Bioactive additives from the dorsal dermis of mice for enhanced vascularization .pdf
+- Biofabrication of 3D-printed pre-cross-linked alginate dialdehydegelatin ADAGEL .pdf
+- Biomaterial and biocompatibility evaluation of tunicate nanocellulose for tissue.pdf
+- Biofabrication of engineered tissues by 3D bioprinting of tissue specific high c.pdf
+- Bioink design for extrusion-based bioprinting.pdf
+- Bioinks and biofabrication techniques for biosensors development A review.pdf
+- Bioprintable tough hydrogels for tissue engineering applications.pdf
+- Bioink a 3D-bioprinting tool for anticancer drug discovery and cancer management.pdf
+- Biomacromolecule-based agent for high-precision light-based 3D hydrogel bioprint.pdf
+- Biological and Morphological Effects of Apatite Kinds SheepSynthetic on MgO Rein.pdf
+- Bioink Formulations for Bone Tissue Regeneration.pdf
+- Bioinks with varying densities of physical and chemical crosslinks modulate cell.pdf
+- Biomaterial-based 3D bioprinting strategy for orthopedic tissue engineering.pdf
+- Bioinks used in the repair of nerve injury in vivo.pdf
+- Biomaterials  bioinks and extrusion bioprinting.pdf
+- Bioinks and bioprinting A focused review.pdf
+- Bioprinted vascular tissue Assessing functions from cellular tissue to organ lev.pdf
+- Bioprinted anisotropic scaffolds with fast stress relaxation bioink for engineer.pdf
+- Biomaterial inks and bioinks for fabricating 3D biomimetic lung tissue A delicat.pdf
+- Bioprinting 3D lattice-structured lumens using polyethylene glycol diacrylate PE.pdf
+- Bioprinted vascularized soft-tissue flaps with an integrated arterial-venous loo.pdf
+- Bioprinting for craniofacial reconstruction A review of advancements clinical us.pdf
+- Bioprinting Cell- and Spheroid-Laden Protein-Engineered Hydrogels as Tissue-on-C.pdf
+- Bioprinting and regeneration of auricular cartilage using a bioactive bioink bas.pdf
+- Bioprinting of gelatin-based materials for orthopedic application.pdf
+- Bioprinting of Alginate-Norbornene bioinks to create a versatile platform for ki.pdf
+- Bioprinting a novel glioblastoma tumor model using a fibrin-based bioink for dru.pdf
+- Bioprinting of a multi-composition array to mimic intra-tumor heterogeneity of g.pdf
+- Bioprinting for the Biologist.pdf
+- Bioprinting of in vitro models for personalized therapeutic delivery.pdf
+- Bioprinting of Small-Diameter Blood Vessels.pdf
+- Bioprinting of piezoresistive organohydrogel networks for advanced real-time mec.pdf
+- Bioprinting of human pluripotent stem cell derived corneal endothelial cells wit.pdf
+- Bioprinting of three-dimensional scaffold based on alginate-gelatin as soft and .pdf
+- Bioprinting of structurally organized meniscal tissue within anisotropic melt el.pdf
+- Bioprinting taurine-incorporated gelatin methacrylate hydrogels for enhanced mus.pdf
+- Bioprinting of stem cell expansion lattices.pdf
+- Bioscaffolds embedded with regulatory modules for cell growth and tissue formati.pdf
+- Bioprinting with bioactive glass loaded polylactic acid composite and human adip.pdf
+- Carboxymethyl cellulose-agarose-gelatin A thermoresponsive triad bioink composit.pdf
+- Bioprinting techniques for regeneration of oral and craniofacial tissues Current.pdf
+- Cell driven elastomeric particle packing in composite bioinks for engineering an.pdf
+- Cell-instructive microfibers enable programmable alignment of bioprinted hMSC.pdf
+- Cell viability in extrusion bioprinting the impact of process parameters bioink .pdf
+- Characterization of direct ink write pure silk fibroin based on alcohol post-tre.pdf
+- Cell alignment and accumulation using acoustic nozzle for bioprinting.pdf
+- Characterization and application of photocrosslinkable collagen maleate as bioin.pdf
+- Characterization of two different alginate-based bioinks and the influence of me.pdf
+- Characterizing the Process Physics of Ultrasound-Assisted Bioprinting.pdf
+- Chondroprotective and osteogenic effects of silk-based bioinks in developing 3D .pdf
+- Chemistry matters A side-by-side comparison of two chemically distinct methacryl.pdf
+- Characterisation biocompatibility and immunogenicity of tunicate-derived nanocel.pdf
+- Characterization of undegraded and degraded silk fibroin and its significant imp.pdf
+- Clinical translation of 3D bioprinting in oral and maxillofacial reconstruction .pdf
+- Coaxial bioprinting of a stentable and endothelialized human coronary artery-siz.pdf
+- Coaxial bioprinting of cellulose nanocrystal-reinforced core-sheath strands for .pdf
+- Collagen-based bioinks for regenerative medicine Fabrication application and pro.pdf
+- Click chemistry for 3D bioprinting.pdf
+- Commercially available bioinks and state-of-the-art lab-made formulations for bo.pdf
+- Composite bioink incorporating cell-laden liver decellularized extracellular mat.pdf
+- Confocal imaging of biomarkers at a single-cell resolution quantifying living in.pdf
+- CONSTRUCTION OF VASCULAR GRAFT BY 3D PRINTING USING BACTERIAL CELLULOSE FORMULAT.pdf
+- Construction of bi-layered osteochondral structures using DLP bioprinting with m.pdf
+- Conversion of an FDM printer to direct ink write 3D bioprinter utilizing an effi.pdf
+- Converging functionality Strategies for 3D hybrid-construct biofabrication and t.pdf
+- Composite Bioinks With Mesoporous Bioactive GlassesA Critical Evaluation of Resu.pdf
+- Collagen as a bio-ink for 3D printing a critical review.pdf
+- Controlling Cancer Cell Behavior by Improving the Stiffness of Gastric Tissue-De.pdf
+- Decellularized extracellular matrix A promising strategy for skin repair and reg.pdf
+- Cryopreserved cell-laden alginate microgel bioink for 3D bioprinting of living t.pdf
+- Correlating linear rheology and filament fidelity in bioinks A combined modeling.pdf
+- Coupling machine learning with 3D bioprinting to fast track optimisation of extr.pdf
+- Creep of Alginate-Gelatin-Hyaluronic acid strands and cell viability after biopr.pdf
+- Cost-effective BioInk design via additive tuning a cross-platform strategy for 3.pdf
+- Decellularized extracellular matrix bioinks and the external stimuli to enhance .pdf
+- Curcumin encapsulated polylactic acid nanoparticles embedded in alginategelatin .pdf
+- Decellularized extracellular matrix enhances hydrogel printability for bioprinti.pdf
+- Demonstration of re-epithelialization in a bioprinted human skin equivalent woun.pdf
+- Demineralized bone bioinks with enhanced odontogenic differentiation Synthesis a.pdf
+- Design and characterisation of multi-functional strontium-gelatin nanocomposite .pdf
+- Decellularized extracellular matrix particle-based biomaterials for cartilage re.pdf
+- Design aspects and characterization of hydrogel-based bioinks for extrusion-base.pdf
+- Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed liv.pdf
+- Design considerations and biomaterials selection in embedded extrusion 3D biopri.pdf
+- Design and evaluation of a bilayered dermalhypodermal 3D model using a biomimeti.pdf
+- Developing hydrophobic-hydrophilic protein structures by 3D food printing of sor.pdf
+- Development and characterization of bioinks for 3D bioprinting of in vitro skele.pdf
+- Development and quantitative characterization of the precursor rheology of hyalu.pdf
+- Development and application of a mechanical arm-based in situ 3D bioprinting met.pdf
+- Developing a bioprintable epidermis.pdf
+- Development and assessment of dimethyl sulfoxide-free antifreeze gelatin methacr.pdf
+- Development characterization and applications of multi-material stereolithograph.pdf
+- Development of 4D-bioprinted shape-morphing magnetic constructs for cartilage re.pdf
+- Development of a 3D bioprinted human skin model for predictive toxicology.pdf
+- Development and characterization of a decellularized lung ECM-based bioink for b.pdf
+- Development of a 3D cell-printed RVO model by advancing a retina-on-a-chip with .pdf
+- Development of a new 3D bioprinted antibiotic delivery system based on a cross-l.pdf
+- Development of a Smart Bioink for Bioprinting Applications.pdf
+- Development of 3D bioprinting From printing methods to biomedical applications.pdf
+- Development of an alginatechitosan biopolymer composite with dECM bioink additiv.pdf
+- Development of a high-performance open-source 3D bioprinter.pdf
+- Development of an on-demand foaming printhead for biofabrication of constructs w.pdf
+- Development of biodegradable methacrylated guar gum 3D bioprinting bioinks for s.pdf
+- Development of nanocellulose-hyaluronic acid bioinks for 3D bioprinting facial c.pdf
+- Development of an extrusion-based 3D-printing strategy for clustering of human n.pdf
+- Development of novel organicinorganic osteomimetic inks for 3D bioprinted in vit.pdf
+- Development of pathological skin models from conventional techniques to 3D biopr.pdf
+- Development of bioinks for 3D printing microporous sintered calcium phosphate sc.pdf
+- Development of starch-based support material alternately extruded with gelatin-b.pdf
+- Differentiation of mesenchymal stem cells towards lens epithelial stem cells bas.pdf
+- Development of bioactive catechol functionalized nanoparticles applicable for 3D.pdf
+- Direct-Write Bioprinting Approach to Construct Multilayer Cellular Tissues.pdf
+- DNA-encoded dynamic hydrogels for 3D bioprinted cartilage organoids.pdf
+- Development of phenol-grafted polyglucuronic acid and its application to extrusi.pdf
+- Double crosslinked hyaluronic acid and collagen as a potential bioink for cartil.pdf
+- Digital light processing bioprinting neural systems with porous hydrogel in stru.pdf
+- Dragging 3D printing technique controls pore sizes of tissue engineered blood ve.pdf
+- Droplet-based bioprinting enables the fabrication of cellhydrogelmicrofibre comp.pdf
+- Direct 3D bioprinted full-thickness skin constructs recapitulate regulatory sign.pdf
+- Dual cure thermalphoto composite hydrogel derived from chitosancollagen for in s.pdf
+- Double-crosslinked dECM bioink to print a self-sustaining 3D multi-layered aorti.pdf
+- Egg White Photocrosslinkable Hydrogels as Versatile Bioinks for Advanced Tissue .pdf
+- Effect of 3D-bioprinted droplet impact dynamics on a pre-printed soft hydrogel m.pdf
+- Effect of cross-linking on the dimensional stability and biocompatibility of a t.pdf
+- Emerging granular hydrogel bioinks to improve biological function in bioprinted constructs.pdf
+- Dually crosslinked injectable alginate-based graft copolymer thermoresponsive hy.pdf
+- Enabling 3D bioprinting of cell-laden pure collagen scaffolds via tannic acid su.pdf
+- Employing photocurable biopolymers to engineer photosynthetic 3D-printed living .pdf
+- Engineered 3D liver-tissue model with minispheroids formed by a bioprinting proc.pdf
+- Engineering bioactive fibrous constructs Bioprinting stem cell-laden collagen-de.pdf
+- Engineering gelatin-based alginatecarbon nanotubes blend bioink for direct 3D pr.pdf
+- Embedded bioprinting enables precise fabrication of cultured meat with authentic.pdf
+- Enabling 3D printability and vascular morphogenesis with double network dynamic hydrogels.pdf
+- Enzymatic upgrading of nanochitin using an ancient lytic polysaccharide monooxyg.pdf
+- Engineering considerations in the design of tissue specific bioink for 3D biopri.pdf
+- Engineering a GelMAdECM-based 3D bioprinted liver fibrosis model methotrexate-in.pdf
+- Exploring the Potential of Alginate-Gelatin-Diethylaminoethyl Cellulose-Fibrinog.pdf
+- Exploiting the role of nanoparticles for use in hydrogel-based bioprinting appli.pdf
+- Evaluating the printability and digestibility of 3D-printed pea-sorghum protein .pdf
+- Extracellular matrix derived from human urine-derived stem cells enhances the ex.pdf
+- Evaluation of the Reproducibility and Robustness of Extrusion-Based Bioprinting .pdf
+- Extrusion bioprinting Recent progress challenges and future opportunities.pdf
+- Fabrication and validation of an affordable DIY coaxial 3D extrusion bioprinter.pdf
+- Fabrication of fully aligned self-assembled cell-laden collagen filaments for ti.pdf
+- Extracellular matrix ECM-derived bioinks designed to foster vasculogenesis and n.pdf
+- Fabrication of a crystalline nanocellulose embedded agarose biomaterial ink for .pdf
+- Fabrication of SAGelC scaffold with 3D bioprinting to generate micro-nano porosi.pdf
+- Fabrication of oxygen-releasing dextran microgels by droplet-based microfluidic .pdf
+- Freeform cell-laden cryobioprinting for shelf-ready tissue fabrication and stora.pdf
+- Formation of a keratin layer with silk fibroin-polyethylene glycol composite hyd.pdf
+- Freestanding vascular scaffolds engineered by direct 3D printing with Gt-Alg-MMT.pdf
+- Functionalizing multi-component bioink with platelet-rich plasma for customized .pdf
+- Flow-on-repellent biofabrication of fibrous decellularized breast tumor-stroma m.pdf
+- From cocoa waste to sustainable bioink valorising pectin for circular economy-dr.pdf
+- Gelatin vs GelMA in alginate-based bioinks as a platform for versatile 3D biopri.pdf
+- From an Antimicrobial Agent to a constituent of 3D Printed Heterogenous Scaffold.pdf
+- GelMA synthesis and sources comparison for 3D multimaterial bioprinting.pdf
+- Freeze-dryable inks combining chitosan nanofibers and hyaluronic acid for extrus.pdf
+- Gallol-derived ECM-mimetic adhesive bioinks exhibiting temporal shear-thinning a.pdf
+- Harnessing native blueprints for designing bioinks to bioprint functional cardia.pdf
+- Genipin-crosslinked chitosanalginatealumina nanocomposite gels for 3D bioprintin.pdf
+- Glycosaminoglycan-mimetic Gelatin-Methacrylateκ-Carrageenan bioink A synergistic.pdf
+- Hierarchical porous ECM scaffolds incorporating GDF-5 fabricated by cryogenic 3D.pdf
+- Hierarchical tetramodal-porous architecture of zinc oxide nanoparticles microflu.pdf
+- High-yield cell-derived extracellular matrix bioink via macromolecular crowding .pdf
+- Highly printable and multifunctional cell-laden collagen-based bioinks for preci.pdf
+- Hyaluronic acid incorporation into hybrid alginate-based bioinks promotes long t.pdf
+- High-precision bioactive scaffold with dECM and extracellular vesicles targeting.pdf
+- Human mesenchymal stromal cells-laden crosslinked hyaluronic acid-alginate bioin.pdf
+- Hyaluronic acid-based bioink improves the differentiation and network formation .pdf
+- Hyaluronic acid methacrylatepancreatic extracellular matrix as a potential 3D pr.pdf
+- Hydrogel bioink based on clickable cellulose derivatives Synthesis characterizat.pdf
+- Hyaluronic acid and multiwalled carbon nanotubes as bioink additives for cartila.pdf
+- Hybrid bioink of methyacrylated starch with minimal methacrylated chitosan enabl.pdf
+- Hybrid scaffolds for bone tissue engineering Integration of composites and bioac.pdf
+- Immediately injectable modified gelatin and hyaluronic acid-based hydrogel encap.pdf
+- Immobilization of planktonic algal spores by inkjet printing.pdf
+- HYBERFLOW  enabling non-invasive flow rate feedback control in bioprinting via h.pdf
+- Immune-instructive bone organoids via non-immunogenic plant-based bioinks for en.pdf
+- Hydrogel-based 3D bioprinting A comprehensive review on cell-laden hydrogels bio.pdf
+- Impact of steam sterilization on the rheological characteristics printability an.pdf
+- Implantation of Adipose-Derived Mesenchymal Stromal Cells ADSCs-Lining Prostheti.pdf
+- Improved bone regeneration with bone targeted scaffold.pdf
+- Immunosensing of breast cancer tumor protein CA 15-3 carbohydrate antigen 153 us.pdf
+- In situ 3D bioprinting with bioconcrete bioink.pdf
+- In situ bioprinting intraoperative implementation of regenerative medicine.pdf
+- Improving alginate printability with alternative cationic pre-crosslinkers stron.pdf
+- In situ magnetic-field-assisted bioprinting process using magnetorheological bio.pdf
+- In vitro characterisation of 3D printed platelet lysate-based bioink for potenti.pdf
+- In vitroin vivo evaluation of 3D bioprinted silk fibroin hydrogels for IBD A dua.pdf
+- Insights on shear rheology of inks for extrusion-based 3D bioprinting.pdf
+- Inkjet printing of lipoplexes A feasibility study.pdf
+- Influence of the physico-chemical bioink composition on the printability and cel.pdf
+- In vivo bioprinting Broadening the therapeutic horizon for tissue injuries.pdf
+- In situ UNIversal Orthogonal Network UNION bioink deposition for direct delivery.pdf
+- Influence of pea protein on alginate gelation behaviour Implications for plant-b.pdf
+- Integrated bioprinting of trachea-like structures based on tissue-specific bioin.pdf
+- Insights on the role of cryoprotectants in enhancing the properties of bioinks r.pdf
+- Instability-Driven 3D bioprinting for engineering composite bio-inks.pdf
+- Integrated design and fabrication strategies based on bioprinting for skeletal m.pdf
+- Intrinsically cryopreservable bacteriostatic durable glycerohydrogel inks for 3D.pdf
+- Investigation of rheology printability and biocompatibility of NO-carboxymethyl .pdf
+- Isolation culturing and 3D bioprinting of equine myoblasts.pdf
+- Leveraging 3D printing in microbial electrochemistry research current progress a.pdf
+- Intraoperative bioprinting of human adipose-derived stem cells and extra-cellula.pdf
+- Jetting-based bioprinting process dispense physics and applications.pdf
+- Light-activated decellularized extracellular matrix-based bioinks for enhanced m.pdf
+- Lightweight 3D bioprinting with point by point photocuring.pdf
+- Machine learning-assisted extrusion-based 3D bioprinting for tissue regeneration.pdf
+- Localized delivery of metformin via 3D printed GelMA-Nanoclay hydrogel scaffold .pdf
+- Matrix metalloproteinase degradable in situ photocrosslinked nanocomposite bioin.pdf
+- Low-temperature anisotropic embedded 3D bioprinting of shear-oriented porous Gel.pdf
+- Mechanosensor YAP cooperates with TGF-β1 signaling to promote myofibroblast acti.pdf
+- Localized delivery of FTY-720 from 3D printed cell-laden gelatinsilk fibroin com.pdf
+- Mechanotransduction-enhanced bioconstructs fabricated using a bioink comprising .pdf
+- Merging BioActuation and BioCapacitive properties A 3D bioprinted devices to sel.pdf
+- Methacrylated fibrinogen hydrogels for 3D cell culture and delivery.pdf
+- Manufacture of a chitosan-based bioink with gelatin and hydroxyapatite and its p.pdf
+- Micro-digital light processing of conventional and hollow Gyroid mesoscale hydro.pdf
+- Microgel-based bioink for extrusion-based 3D bioprinting and its applications in.pdf
+- Micronano-hierarchical scaffold fabricated using a cell electrospinning3D printi.pdf
+- Mending a broken heart by biomimetic 3D printed natural biomaterial-based cardia.pdf
+- Microfibrillated cellulose MFC-composite formulations for 3D bioprinting with ex.pdf
+- Microwave assisted methacrylation of Kappa carrageenan A bioink for cartilage ti.pdf
+- Mineralized collagen as a bioactive ink to support encapsulation of human adipos.pdf
+- Microgels for bioprinting recent advancements and challenges.pdf
+- Modeling a mesenchymal cell state by bioprinting for the molecular analysis of d.pdf
+- Multi-modal imaging for dynamic visualization of osteogenesis and implant degrad.pdf
+- Multicomponent polysaccharide alginate-based bioinks.pdf
+- Multi-response optimization of alginate bleaching technology extracted from brow.pdf
+- Microspheres for 3D bioprinting a review of fabrication methods and applications.pdf
+- Multiphysics modeling of laser-assisted bioprinting from plasma formation to jet.pdf
+- Modeling human hypertrophic scars with 3D preformed cellular aggregates bioprint.pdf
+- Nanocomposite hydrogel inks pioneering future of 3D bioprinting.pdf
+- Nanocomposite bioinks for 3D bioprinting.pdf
+- New gellan gum-graft-polyDL-lactide-co-glycolide copolymers as promising bioinks.pdf
+- Nanomaterial a neglected bioink ingredient for 3D printing of biomineralization-.pdf
+- Natural hydroxyapatite-based nanobiocomposites and their biomaterials-to-cell in.pdf
+- Multimodal and dynamic cross-linking of modular thiolated alginate-based bioinks.pdf
+- New frontiers in bioengineering A perspective on the open challenges in bioprint.pdf
+- Near-infrared-responsive bioink for photothermal biofabrication and modulation o.pdf
+- Nanocomposite hydrogels 3D printed for application in water remediation.pdf
+- Non-destructive mechanical assessment for optimization of 3D bioprinted soft tis.pdf
+- Natural macromolecule-based bioinks for 3D bioprinting A systematic review of co.pdf
+- Novel bioinks from UV-responsive norbornene-functionalized carboxymethyl cellulo.pdf
+- Non-planar bioprinting with molding assistance for irregular wound shape.pdf
+- Nucleotide lipid-based hydrogel as a new biomaterial ink for biofabrication.pdf
+- Numerical analysis on the effects of microfluidic-based bioprinting parameters o.pdf
+- Nanostructured multicomponent bioinks with nanodiamond and magnesium-doped nanoh.pdf
+- Omnidirectional anisotropic embedded 3D bioprinting.pdf
+- Novel strategy for multi-material 3D bioprinting of human stem cell based cornea.pdf
+- Optimized gradient of lyophilized platelet-rich plasma in biomimetic 3D-printed .pdf
+- Optimizing gelatin methacryloyl-based bioinks with nanohydroxyapatite for 3D bio.pdf
+- Optimization of mechanical stiffness and cell density of 3D bioprinted cell-lade.pdf
+- One-pot synthesis of hydroxyapatite hybrid bioinks for digital light processing.pdf
+- Pharmaceutical polymer-based hydrogel formulations as prospective bioinks for 3D.pdf
+- Photo-thermo-responsive bioink for improved printability in extrusion-based biop.pdf
+- Physiological cell bioprinting density in human bone-derived cell-laden scaffold.pdf
+- Persuasive factors on the bioink printability and cell viability in the extrusio.pdf
+- Photocurable chitosan as bioink for cellularized therapies towards personalized .pdf
+- Piezoelectric nanocomposite bioink and ultrasound stimulation modulate early ske.pdf
+- Patient-Derived 3D-Bioprinted Models of Pancreatic Cancer Toward Personalized Th.pdf
+- Photochemical corneal cross-linking Evaluating the potential of a hand-held biop.pdf
+- Polysaccharides as functional biomaterials in 3D bioprinting Strategies for anti.pdf
+- Predicting and elucidating the post-printing behavior of 3D printed cancer cells.pdf
+- Precision and customization in regenerative medicine The role of coaxial 3D prin.pdf
+- Printability during projection-based 3D bioprinting.pdf
+- Plant-based nanocellulose A review of routine and recent preparation methods wit.pdf
+- PrintabilityA key issue in extrusion-based bioprinting.pdf
+- Process-optimized gelatin methacryloyl-konjac glucomannan dual-network hydrogels.pdf
+- Printing bone in a gel using nanocomposite bioink to print functionalised bone s.pdf
+- Printable ADA-GEL-based composite inks containing Zn-doped bioactive inorganic f.pdf
+- Production of gelatin methacrylate by flow chemistry and investigation of its su.pdf
+- Printability Durability Contractility and Vascular Network Formation in 3D Biopr.pdf
+- Printing 3D vagina tissue analogues with vagina decellularized extracellular mat.pdf
+- Progress in Organ Bioprinting for Regenerative Medicine.pdf
+- Properties of an alginate-gelatin-based bioink and its potential impact on cell .pdf
+- Properties of CollagenSodium Alginate Hydrogels for Bioprinting of Skin Models.pdf
+- Protocol for 3D bioprinting of nanoparticle-laden hydrogels to enhance antibacte.pdf
+- Programmable microbial ink for 3D printing of living materials produced from gen.pdf
+- Protocol for printing 3D neural tissues using the BIO X equipped with a pneumati.pdf
+- Protocol for developing shape-morphing 4D bioprinted magnetic constructs to prom.pdf
+- Protocol for embedded 3D printing of heart tissues using thiol-norbornene collag.pdf
+- Protocol for 3D bioprinting of a 3D in vitro model of neuroblastoma.pdf
+- Recent advances in 3D bioprinted polysaccharide hydrogels for biomedical applica.pdf
+- Real-time imaging and analysis of cell-hydrogel interplay within an extrusion-bi.pdf
+- Protocol for engineering bone organoids from mesenchymal stem cells.pdf
+- PVA-based bioinks for 3D bioprinting A comprehensive review of their application.pdf
+- Recent advances in 3D bioprinting of vascularized tissues.pdf
+- Recent advances in biofabrication strategies based on bioprinting for vasculariz.pdf
+- Recent advances in the design and development of bioink formulations for various.pdf
+- Recent advances of three-dimensional bioprinting technology in hepato-pancreato-.pdf
+- Recent progress in extrusion 3D bioprinting of hydrogel biomaterials for tissue .pdf
+- Regional specific tunable meniscus decellularized extracellular matrix MdECM rei.pdf
+- Recent advances in 3D bioprinted neural models A systematic review on the applic.pdf
+- Recent advances in GelMA hydrogel transplantation for musculoskeletal disorders .pdf
+- Repair of infarcted myocardium by skeletal muscle-derived mesenchymal stromal ce.pdf
+- Recent trends in natural polysaccharide based bioinks for multiscale 3D printing.pdf
+- Reinforced gelatin-methacrylate hydrogels containing polylactic-co-glycolic acid.pdf
+- Remote-Controlled Gene Delivery in Coaxial 3D-Bioprinted Constructs using Ultras.pdf
+- Recent trends in 3D bioprinting technology for skeletal muscle regeneration.pdf
+- Research Progress in the Field of Tumor Model Construction Using Bioprinting A R.pdf
+- Retrospective Advances and Opportunities of 3D Bioprinting in China over Three D.pdf
+- Review and proposition for model-based multivariable-multiobjective optimisation.pdf
+- Review on Multicomponent Hydrogel Bioinks Based on Natural Biomaterials for Biop.pdf
+- Release of O-GlcNAc transferase inhibitor promotes neuronal differentiation of n.pdf
+- Responsive biomaterials for 3D bioprinting A review.pdf
+- Rheological optimization of hybrid alginatexanthan gum hydrogels for enhanced 3D.pdf
+- Rise of tissue- and species-specific 3D bioprinting based on decellularized extr.pdf
+- Scalable production of muscle and adipose cell-laden microtissues using edible m.pdf
+- Robot-assisted in situ bioprinting of gelatin methacrylate hydrogels with stem c.pdf
+- Rheological optimization and aging-driven performance of glycolipid-based hydrog.pdf
+- Silicate biomaterials-based multicellular scaffolds with specific cellular spati.pdf
+- Self-assembling tetrameric peptides allowin situ3D bioprinting under physiologic.pdf
+- Small molecular weight alginate gel porogen for the 3D bioprinting of microvascu.pdf
+- Riboflavin-5-phosphate mediated blue-light photocrosslinking of polyα-amino acid.pdf
+- Stem cell-derived small extracellular vesicles embedded into methacrylated hyalu.pdf
+- Stimuli-responsive 4D-bioprinted constructs for musculoskeletal tissue regenerat.pdf
+- Spidroin striped micropattern promotes chondrogenic differentiation of human Wha.pdf
+- Silk fibroin gelatin and human placenta extracellular matrix-based composite hyd.pdf
+- Stem cell-laden hydrogel bioink for generation of high resolution and fidelity e.pdf
+- Stimulus assisted in situ bioprinting advancing direct bench to bedside delivery.pdf
+- Strategies to use fibrinogen as bioink for 3D bioprinting fibrin-based soft and .pdf
+- Strategies of functionalized GelMA-based bioinks for bone regeneration Recent ad.pdf
+- Studies on cytocompatibility of human dermal fibroblasts on carbon nanofiber nan.pdf
+- Synergistic 3D-bioprinted scaffold with multi-level adaptability for vascularize.pdf
+- Stem cell-laden 3D bioprinting for osteoarthritis Orchestrating chondrogenic ind.pdf
+- Strategies for improving the 3D printability of decellularized extracellular mat.pdf
+- The effect of multi-material architecture on the ex vivo osteochondral integrati.pdf
+- Symbiotic Photosynthetic Oxygenation within 3D-Bioprinted Vascularized Tissues.pdf
+- Successful engraftment vascularization and In vivo survival of 3D-bioprinted hum.pdf
+- Tailoring bioinks of extrusion-based bioprinting for cutaneous wound healing.pdf
+- Temperature-independent and photocrosslinkable hydrolyzed GelMA with tunable mec.pdf
+- Synthetic polymer-derived single-network inksbioinks for extrusion-based 3D prin.pdf
+- TEMPO-Oxidized Cellulose Nanofiber-Alginate Hydrogel as a Bioink for Human Menis.pdf
+- The cell in the ink Improving biofabrication by printing stem cells for skeletal.pdf
+- The correlation between rheological properties and extrusion-based printability .pdf
+- Systematic review on the application of 3D-bioprinting technology in orthoregene.pdf
+- The impact of 45S5 bioglass vs β-TCP nanoparticles ratio on rheological behavior.pdf
+- The impact of mechanical tuning on the printability of decellularized amniotic m.pdf
+- The 3D bioprinted human induced pluripotent stem cell-derived cardiac model Towa.pdf
+- The introduction and evaluation of novel decellularized extracellular matrixgell.pdf
+- The effect of the synthetic route on the biophysiochemical properties of methacr.pdf
+- The one-step fabrication of porous hASC-laden GelMa constructs using a handheld .pdf
+- The potential impact of polyethylenimine on biological behavior of 3D-printed al.pdf
+- The shape of our gut Dissecting its impact on drug absorption in a 3D bioprinted.pdf
+- The microparticulate inks for bioprinting applications.pdf
+- Thiol-ene click chemistry Enabling 3D printing of natural-based inks for biomedi.pdf
+- Three Dimensional Bioprinting of a Vascularized and Perfusable Skin Graft Using .pdf
+- Three-dimensional bio-printing and bone tissue engineering technical innovations.pdf
+- Trends in 3D bioprinting for esophageal tissue repair and reconstruction.pdf
+- Three-dimensional bioprinting adipose tissue and mammary Organoids feasible for .pdf
+- Three-Dimensional Hydrogel Bioprinting Technology as a Scaffold of Novel Drug De.pdf
+- Three-dimensional-engineered bioprinted in vitro human neural stem cell self-ass.pdf
+- Thermosensitive composite based on agarose and chitosan saturated with carbon di.pdf
+- Three-dimensional bioprinting of a full-thickness functional skin model using ac.pdf
+- Tissue mimetic hyaluronan bioink containing collagen fibers with controlled orie.pdf
+- Three-dimensional bioactive collagen scaffolds incorporated with titanate nanotu.pdf
+- Tissue-in-a-Tube three-dimensional in vitro tissue constructs with integrated mu.pdf
+- Three-Dimensional Skin Tissue Printing with Human Skin Cell Lines and Mouse Skin.pdf
+- Toward Biomimetic Scaffolds for Tissue Engineering 3D Printing Techniques in Reg.pdf
+- Towards optimized tissue regeneration a new 3D printable bioink of alginatecellu.pdf
+- Tunable rod-shaped microgels with surface grooves for hierarchical anisotropy in.pdf
+- Tissue-specific gelatin bioink as a rheology modifier for high printability and .pdf
+- Tuning the mechanical properties and printability of viscoelastic skin-derived h.pdf
+- Valuable effect of Manuka Honey in increasing the printability and chondrogenic .pdf
+- Triaxial mechanical characterization of ultrasoft 3D support bath-based bioprint.pdf
+- Visible Light-Induced 3D Bioprinting Technologies and Corresponding Bioink Mater.pdf
+- Using silica nanoparticles to deliver antibiotics for treating Gram-positive bac.pdf
+- Unlocking the potential of bio-inspired bioinks A collective breakthrough in mam.pdf
+- Volumetric additive manufacturing of pristine silk-based bioinks.pdf
