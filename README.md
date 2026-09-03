@@ -7,8 +7,8 @@
 
 ## 👨‍🔬 Research Collaboration & Attribution
 
-- **Lead Researcher & Developer**: **Dave Seah Yong Sheng** — Visiting Researcher, Nanyang Technological University (NTU), Singapore
-- **Research Collaborator**: **Dr. Xi Huang (Huang Xi)** — Research Fellow, Singapore Centre for 3D Printing (SC3DP), Nanyang Technological University (NTU)
+- **1st Author Researcher & Developer**: **Dr. Xi Huang (Huang Xi)** — Research Fellow, Singapore Centre for 3D Printing (SC3DP), Nanyang Technological University (NTU)
+- **Co Author Researcher & Developer**: **Dave Seah Yong Sheng** — Visiting Researcher, Nanyang Technological University (NTU), Singapore
 
 ### 📄 Scientific Foundation
 This classification framework forms Phase 1 of the knowledge distillation pipeline engineered to resolve the critical challenges identified in the **"Future Work"** section of the foundation paper:
